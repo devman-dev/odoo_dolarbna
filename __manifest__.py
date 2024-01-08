@@ -10,15 +10,9 @@
     'depends': [
         'base','account'
     ],
-    'external_dependencies': {
-    },
     'data': [
-    ],
-    'demo': [
-    ],
-    'test': [
-    ],
-    'images': [
+        'data/cron.xml',
+        'data/data.xml'
     ],
     'installable': True,
     'auto_install': False,
